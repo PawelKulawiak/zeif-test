@@ -6,4 +6,4 @@ layout: home
 list_title: ' '
 ---
 
-Aktuelle Beiträge
+Aktuelle Beiträge 2
