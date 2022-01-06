@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Aktuelle Beiträge 1234
+Aktuelle Beiträge 12345
