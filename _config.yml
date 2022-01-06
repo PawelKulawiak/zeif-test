@@ -20,7 +20,7 @@
 
 title: ZEIF-Blog
 email: zeif.blog@uni-potsdam.de
-description: "ZEIF-Blog: Online-Zeitschrift des Zentrums für empirische Inklusionsforschung)"
+description: "ZEIF-Blog: Online-Zeitschrift des Zentrums für empirische Inklusionsforschung"
 
 baseurl: /ZEIF-TEST # the subpath of your site, e.g. /blog
 url: https://pawelkulawiak.github.io/ZEIF-TEST/ # the base hostname & protocol for your site, e.g. http://example.com
