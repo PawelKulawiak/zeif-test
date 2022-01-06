@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Aktuelle Beiträge 12
+Aktuelle Beiträge 123
