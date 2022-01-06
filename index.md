@@ -6,4 +6,4 @@ layout: home
 list_title: ' '
 ---
 
-Aktuelle Beiträge 2345
+Aktuelle Beiträge 23456
