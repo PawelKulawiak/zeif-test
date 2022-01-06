@@ -4,13 +4,13 @@ title: Editorial Board
 permalink: /editorial board/
 ---
 
-*Herausgeber\*innen:*
+**Herausgeber\*innen:**
 
 Franziska Rogge (Universität Potsdam)
 
-Pawel R. Kulawiak (Universität Potsdam)
+Dr. Pawel R. Kulawiak (Universität Potsdam)
 
-*Editorial Board:*
+**Editorial Board:**
 
 Prof. Dr. Max Mustermann (Universität Chicago)
 
