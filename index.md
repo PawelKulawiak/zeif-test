@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Aktuelle Beiträge 1
+Aktuelle Beiträge
