@@ -5,5 +5,6 @@
 layout: home
 ---
 
-![](https://github.com/PawelKulawiak/ZEIF-TEST/blob/main/ZEIF-LOGO/ZEIF-LOGO.png?raw=true)
-\
+![](https://github.com/PawelKulawiak/ZEIF-TEST/blob/main/ZEIF-LOGO/ZEIF-LOGO.png?raw=true)  
+  
+  
