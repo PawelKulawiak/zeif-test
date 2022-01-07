@@ -6,7 +6,9 @@ author: Mara Musterfrau, Max Mustermann
 ---
 
 ![](https://github.com/PawelKulawiak/ZEIF-TEST/blob/main/ZEIF%20LOGO/ZEIF-Blog.png?raw=true)
+
 Zentrum für empirische Inklusionsforschung (ZEIF)
+
 ZEIF-BLOG, 2022, 1
 
 [PDF-VERSION](https://github.com/PawelKulawiak/ZEIF-TEST/raw/main/PDF/2022_1_musterfrau.pdf)
