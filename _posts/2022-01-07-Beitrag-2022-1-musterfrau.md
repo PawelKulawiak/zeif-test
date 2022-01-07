@@ -5,7 +5,7 @@ date: 2022-01-07
 author: Mara Musterfrau, Max Mustermann
 ---
 
-![](https://github.com/PawelKulawiak/ZEIF-TEST/blob/main/ZEIF-LOGO/ZEIF-LOGO.png?raw=true){width=6cm}
+![](https://github.com/PawelKulawiak/ZEIF-TEST/blob/main/ZEIF-LOGO/ZEIF-LOGO.png?raw=true)
 
 Zentrum für empirische Inklusionsforschung (ZEIF)
 
