@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![](https://github.com/PawelKulawiak/ZEIF-TEST/blob/main/ZEIF%20LOGO/ZEIF-Blog.png?raw=true)
+![](https://github.com/PawelKulawiak/ZEIF-TEST/blob/main/ZEIF%20LOGO/ZEIF%20Blog.png?raw=true)
