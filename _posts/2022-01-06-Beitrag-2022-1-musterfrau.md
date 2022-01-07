@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Inklusion und Implusion in der Schule"
-date:   2022-01-06
+date:   2022-01-07
 categories: jekyll update
 author:
-  - John Doe^[Institution One, john@example.org]
-  - Jane Doe^[Institution Two, jane@example.org]
+- John Doe
+- Jane Doe
 ---
 
-in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
 
