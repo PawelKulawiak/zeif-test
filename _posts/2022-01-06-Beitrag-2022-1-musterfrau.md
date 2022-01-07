@@ -1,20 +1,40 @@
 ---
 layout: post
 title:  "Inklusion und Implusion in der impulsiven Schule: Implusionspädagogik neu gedacht"
-date:   2022-01-07
-category: 2022
+date: 2022-01-07
 author: Mara Musterfrau, Max Mustermann
-keywords: "keywordA, keywordB"
 ---
+
+**Zusammenfassung:** Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+**Abstract:** Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 ## Einleitung
 
-Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et varius tellus. Maecenas at suscipit sem, ac aliquam mi. Vivamus et dui vel arcu dictum aliquam. Ut eleifend finibus sapien mattis dictum. Nam scelerisque sollicitudin turpis et consectetur. Praesent dapibus hendrerit rhoncus. Duis et auctor urna, a fermentum libero. Vivamus laoreet, turpis vel rutrum hendrerit, felis libero fermentum enim, nec viverra nulla orci sit amet lacus. Vestibulum facilisis sapien odio, quis pulvinar purus tincidunt eget.
 
-## Fallbeispiel
+Nullam bibendum lectus sed est egestas dignissim. Maecenas lobortis mi in malesuada porta. Aliquam eu luctus dui. Etiam id sem purus. Nam et mauris tincidunt, euismod purus at, bibendum eros. Sed dignissim condimentum urna vel porta. Ut blandit ut nisl a dictum. Maecenas molestie erat quis eros dapibus venenatis. Fusce pellentesque, risus et ultrices lobortis, elit arcu pellentesque arcu, eu facilisis enim ligula ut lectus. Phasellus facilisis neque eget orci sagittis vestibulum. Aliquam ligula velit.
 
-Jekyll requires blog post files to be named according to the following format:
+### Fallbeispiel
 
-### Implusion
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et varius tellus. Maecenas at suscipit sem, ac aliquam mi. Vivamus et dui vel arcu dictum aliquam. Ut eleifend finibus sapien mattis dictum. Nam scelerisque sollicitudin turpis et consectetur. Praesent dapibus hendrerit rhoncus. Duis et auctor urna, a fermentum libero. Vivamus laoreet, turpis vel rutrum hendrerit, felis libero fermentum enim, nec viverra nulla orci sit amet lacus. Vestibulum facilisis sapien odio, quis pulvinar purus tincidunt eget.
 
-dfadfadfgad
+Nullam bibendum lectus sed est egestas dignissim. Maecenas lobortis mi in malesuada porta. Aliquam eu luctus dui. Etiam id sem purus. Nam et mauris tincidunt, euismod purus at, bibendum eros. Sed dignissim condimentum urna vel porta. Ut blandit ut nisl a dictum. Maecenas molestie erat quis eros dapibus venenatis. Fusce pellentesque, risus et ultrices lobortis, elit arcu pellentesque arcu, eu facilisis enim ligula ut lectus. Phasellus facilisis neque eget orci sagittis vestibulum. Aliquam ligula velit.
+
+## Implusionspädagogik
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et varius tellus. Maecenas at suscipit sem, ac aliquam mi. Vivamus et dui vel arcu dictum aliquam. Ut eleifend finibus sapien mattis dictum. Nam scelerisque sollicitudin turpis et consectetur. Praesent dapibus hendrerit rhoncus. Duis et auctor urna, a fermentum libero. Vivamus laoreet, turpis vel rutrum hendrerit, felis libero fermentum enim, nec viverra nulla orci sit amet lacus. Vestibulum facilisis sapien odio, quis pulvinar purus tincidunt eget.
+
+Nullam bibendum lectus sed est egestas dignissim. Maecenas lobortis mi in malesuada porta. Aliquam eu luctus dui. Etiam id sem purus. Nam et mauris tincidunt, euismod purus at, bibendum eros. Sed dignissim condimentum urna vel porta. Ut blandit ut nisl a dictum. Maecenas molestie erat quis eros dapibus venenatis. Fusce pellentesque, risus et ultrices lobortis, elit arcu pellentesque arcu, eu facilisis enim ligula ut lectus. Phasellus facilisis neque eget orci sagittis vestibulum. Aliquam ligula velit.
+
+## Fazit
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et varius tellus. Maecenas at suscipit sem, ac aliquam mi. Vivamus et dui vel arcu dictum aliquam. Ut eleifend finibus sapien mattis dictum. Nam scelerisque sollicitudin turpis et consectetur. Praesent dapibus hendrerit rhoncus. Duis et auctor urna, a fermentum libero. Vivamus laoreet, turpis vel rutrum hendrerit, felis libero fermentum enim, nec viverra nulla orci sit amet lacus. Vestibulum facilisis sapien odio, quis pulvinar purus tincidunt eget.
+
+Nullam bibendum lectus sed est egestas dignissim. Maecenas lobortis mi in malesuada porta. Aliquam eu luctus dui. Etiam id sem purus. Nam et mauris tincidunt, euismod purus at, bibendum eros. Sed dignissim condimentum urna vel porta. Ut blandit ut nisl a dictum. Maecenas molestie erat quis eros dapibus venenatis. Fusce pellentesque, risus et ultrices lobortis, elit arcu pellentesque arcu, eu facilisis enim ligula ut lectus. Phasellus facilisis neque eget orci sagittis vestibulum. Aliquam ligula velit.
+
+## Literatur
+
+Szcz Ę Sna, A., Nowak, A., Grabiec, P., Paszkuta, M., Tajstra, M., & Wojciechowska, M. (2017). Survey of wearable multi-modal vital parameters measurement systems. Advances in Intelligent Systems and Computing, 526. https://doi.org/10.1007/978-3-319-47154-9_37
+
+Kasabov, N., Scott, N. M., Tu, E., Marks, S., Sengupta, N., Capecci, E., . . . Yang, J. (2016). Evolving spatio-temporal data machines based on the NeuCube neuromorphic framework: Design methodology and selected applications. Neural Networks, 78, 1-14. https://doi.org/10.1016/j.neunet.2015.09.011 
