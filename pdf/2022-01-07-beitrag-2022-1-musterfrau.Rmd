@@ -43,7 +43,7 @@ Nullam bibendum lectus sed est egestas dignissim. Maecenas lobortis mi in malesu
 
 ## Literatur
 
-Szczesna, A., Nowak, A., Grabiec, P., Paszkuta, M., Tajstra, M., & Wojciechowska, M. (2017). Survey of wearable multi-modal vital parameters measurement systems. Advances in Intelligent Systems and Computing, 526. https://doi.org/10.1007/978-3-319-47154-9_37
+Szczęsna A., Nowak A., Grabiec P., Paszkuta M., Tajstra M., Wojciechowska M. (2017) Survey of Wearable Multi-modal Vital Parameters Measurement Systems. In: Gzik M., Tkacz E., Paszenda Z., Piętka E. (eds) Innovations in Biomedical Engineering. Advances in Intelligent Systems and Computing, vol 526. Springer, Cham. https://doi.org/10.1007/978-3-319-47154-9_37
 
 Kasabov, N., Scott, N. M., Tu, E., Marks, S., Sengupta, N., Capecci, E., . . . Yang, J. (2016). Evolving spatio-temporal data machines based on the NeuCube neuromorphic framework: Design methodology and selected applications. Neural Networks, 78, 1-14. https://doi.org/10.1016/j.neunet.2015.09.011
 
