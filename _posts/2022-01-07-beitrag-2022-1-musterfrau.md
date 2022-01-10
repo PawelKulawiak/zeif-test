@@ -11,7 +11,7 @@ Zentrum für empirische Inklusionsforschung (ZEIF)
 
 ZEIF-BLOG, 2022, 1
 
-[PDF-VERSION](https://github.com/PawelKulawiak/zeif-test/raw/main/PDF/2022-01-07-beitrag-2022-1-musterfrau.pdf)
+[PDF-VERSION](https://github.com/PawelKulawiak/zeif-test/raw/main/pdf/2022-01-07-beitrag-2022-1-musterfrau.pdf)
 
 **Zusammenfassung:** Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
