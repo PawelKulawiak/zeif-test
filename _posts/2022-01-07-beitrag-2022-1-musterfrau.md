@@ -47,6 +47,8 @@ Szczesna, A., Nowak, A., Grabiec, P., Paszkuta, M., Tajstra, M., & Wojciechowska
 
 Kasabov, N., Scott, N. M., Tu, E., Marks, S., Sengupta, N., Capecci, E., . . . Yang, J. (2016). Evolving spatio-temporal data machines based on the NeuCube neuromorphic framework: Design methodology and selected applications. Neural Networks, 78, 1-14. https://doi.org/10.1016/j.neunet.2015.09.011
 
+***
+
 ## Autor\*innen
 
 Mara Musterfrau, Universität Chicago, <fake@example.com>
