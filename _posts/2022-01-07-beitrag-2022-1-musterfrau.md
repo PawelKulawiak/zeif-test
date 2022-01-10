@@ -44,6 +44,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et varius tellus.
 | Nullam    | bibendum  | lectus    |
 | Aliquam   | eros      | sed       |
 
+**Tabelle 1:** Faktoren einer Implusivenpädagogik
+
 Nullam bibendum lectus sed est egestas dignissim. Maecenas lobortis mi in malesuada porta. Aliquam eu luctus dui. Etiam id sem purus. Nam et mauris tincidunt, euismod purus at, bibendum eros. Sed dignissim condimentum urna vel porta. Ut blandit ut nisl a dictum. Maecenas molestie erat quis eros dapibus venenatis. Fusce pellentesque, risus et ultrices lobortis, elit arcu pellentesque arcu, eu facilisis enim ligula ut lectus. Phasellus facilisis neque eget orci sagittis vestibulum. Aliquam ligula velit.
 
 ## Fazit
