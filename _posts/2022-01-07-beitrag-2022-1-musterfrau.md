@@ -72,6 +72,12 @@ Mara Musterfrau, Universität Chicago, <fake@example.com>
 
 Max Mustermann, VW Universität Wolfsburg
 
+## Gutachter\*innen
+
+Peter Lustig (Lustige Universität)
+
+Petra Traurig (Traurige Universität)
+
 ## Empfohlene Zitation
 
 Musterfrau, M., & Mustermann, M. (2022). Inklusion und Implusion in der impulsiven Schule: Implusionspädagogik neu gedacht. ZEIF-Blog, 1.
