@@ -6,4 +6,4 @@ permalink: /beitrag einreichen/
 
 Hinweise für Autor*innen
 
-Manuskriptvorlage
+[Manuskriptvorlage](https://github.com/PawelKulawiak/zeif-test/raw/main/vorlagen/manuskriptvorlage.docx)
