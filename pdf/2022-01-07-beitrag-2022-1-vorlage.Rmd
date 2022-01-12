@@ -64,3 +64,7 @@ Petra Traurig (Traurige Universität)
 ## Empfohlene Zitation
 
 Musterfrau, M., & Mustermann, M. (2022). Inklusion und Implusion in der impulsiven Schule: Implusionspädagogik neu gedacht. ZEIF-Blog, 1.
+
+## Lizenz
+
+Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung 4.0 International Lizenz](https://creativecommons.org/licenses/by/4.0/)
