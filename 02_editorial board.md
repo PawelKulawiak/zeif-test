@@ -6,9 +6,9 @@ permalink: /editorial board/
 
 **Herausgeber\*innen:**
 
-Franziska Rogge (Universität Potsdam)
+XXX (Universität Potsdam)
 
-Dr. Pawel R. Kulawiak (Universität Potsdam)
+XXX (Universität Potsdam)
 
 **Editorial Board:**
 
